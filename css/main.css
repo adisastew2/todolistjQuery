@@ -22,6 +22,8 @@ form {
 .list {
 	font-family:garamond;
 	color:#cc0000;
+	background-color: white;
+	display: inline-block;
 }
 body {
 	text-align: center;
